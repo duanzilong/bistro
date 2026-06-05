@@ -1,16 +1,72 @@
-<p align="center"></p>
-
 <p align="center">
-   <a href="https://shadcnstudio.com" target="_blank">
-      <img src="https://cdn.shadcnstudio.com/ss-assets/logo/logo.png" alt="$brand_name-logo" width="40px" height="auto">
+   <a href="https://shadcnstudio.com/templates/bistro-restaurant-template-free" target="_blank">
+      <img src="https://cdn.shadcnstudio.com/ss-assets/template/landing-page/bistro/logo.png" alt="bistro-logo" width="32px" height="32px">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://shadcnstudio.com" target="_blank" align="center">
-      shadcn/studio
+   <a href="https://shadcnstudio.com/templates/bistro-restaurant-template-free" target="_blank" align="center">
+      Bistro - Shadcn UI Restaurant Landing Page Template - Free
    </a>
 </h1>
+
+<p align="start">Bistro is a free, responsive Astro landing page template crafted for restaurants, cafés, and bistros. It showcases menus, featured dishes, offers, reservation CTAs, location, and testimonials with clean, modern design.</p>
+
+![GitHub](https://img.shields.io/github/license/shadcnstudio/shadcn-astro-bistro-landing-page-free) ![GitHub issues](https://img.shields.io/github/issues/shadcnstudio/shadcn-astro-bistro-landing-page-free) ![GitHub closed issues](https://img.shields.io/github/issues-closed/shadcnstudio/shadcn-astro-bistro-landing-page-free) ![Twitter Follow](https://img.shields.io/twitter/follow/ShadcnStudio?style=social)
+
+<kbd>[![Bistro - Demo Screenshot](https://cdn.shadcnstudio.com/ss-assets/landing-page/template-page/template-detail-page/landing-page/bistro/og-image.png)](https://shadcnstudio.com/templates/bistro-restaurant-template-free)</kbd>
+
+## Introduction 🍽️
+
+Bistro is built with Astro and Tailwind CSS, offering a production-ready landing page to promote your restaurant online. It includes menu highlights, new items, offers, popular dishes, testimonials, and a clear reservation CTA.
+
+[View Demo](https://shadcnstudio.com/preview/templates/shadcn-astro-bistro-landing-page)
+
+[View Documentation](https://shadcnstudio.com/docs/getting-started/shadcn-studio-template-astro)
+
+<p>
+   Supported by
+   <a href="https://shadcnstudio.com" target="_blank">
+      Shadcn Studio
+   </a>
+   , with a commitment to empowering the open-source community.
+</p>
+
+## Key Features ✨
+
+- **Restaurant-Focused Layouts** - Hero, menu highlights, featured dishes, offers, and reservation CTA
+- **Menu Sections** - Categorize items with images, descriptions, and prices
+- **Offers & Specials** - Promote limited-time deals and seasonal items
+- **Reservations & Contact** - Reservation CTA, address, opening hours, and contact info
+- **Built with Astro** - Static-first rendering, partial hydration, and lightning-fast performance with built-in SEO support
+- **Tailwind CSS** - Easy theming and utility-based styling
+- **Responsive & Mobile-First** - Designed to look great on all devices
+- **Accessible Components** - Semantic markup and accessible UI patterns
+
+## Page Structure & Sections
+
+**Pages**
+
+- **Homepage** - Hero with reservation CTA, featured dishes, and menu highlights
+- **Menu Section** - Categorized menu items with images and prices
+- **Offers Section** - Special deals and promotions
+- **Contact / Location** - Map, address, opening hours, and contact form
+
+**Key UI Sections**
+
+- **Hero Section** - Large visual header with a clear reservation CTA
+- **Popular Dishes** - Showcase bestsellers with images and short descriptions
+- **New Items & Offers** - Highlight seasonal or promotional dishes
+- **Testimonials** - Customer reviews and ratings
+- **Footer** - Social links, hours, and navigation
+
+---
+
+<br />
+
+<a href="https://shadcnstudio.com" target="_blank">
+  <img src="https://cdn.shadcnstudio.com/ss-assets/smm/marketing/shadcn-studio-smm-banner.png" alt="shadcn/studio banner" width="1200">
+</a>
 
 <p>
    <a href="https://shadcnstudio.com" target="_blank">
@@ -18,35 +74,6 @@
    </a>
    is an open-source collection of copy-and-paste shadcn components, blocks, and templates - paired with a powerful theme generator & AI Tools to craft, customize, and ship faster. 🚀
 </p>
-
-<a href="https://shadcnstudio.com" target="_blank">
-  <img src="https://cdn.shadcnstudio.com/ss-assets/smm/marketing/shadcn-studio-smm-banner.png" alt="shadcn/studio banner" width="1200">
-</a>
-
-<p>
-    <a href="https://github.com/themeselection/shadcn-studio/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"></a>
-    <a href="https://x.com/ShadcnStudio" target="_blank">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ShadcnStudio">
-   </a>
-</p>
-
-<a href="https://themeselection.com" target="_blank">
-  <img
-    src="https://cdn.shadcnstudio.com/ts-assets/themeselection/logo/logo.png"
-    alt="themeselection logo"
-    height="30"
-  />
-</a>
-
-<p>
-  Supported by
-  <a href="https://themeselection.com" target="_blank">
-    ThemeSelection
-  </a>
-  , with a commitment to empowering the open-source community.
-</p>
-
----
 
 ## Table of Contents 📋
 
@@ -60,10 +87,21 @@
 - [Deployment 🌐](#-deployment)
 - [Documentation 📚](#documentation-)
 - [Community 🤝](#community-)
+- [Credits 🤘](#credits-)
 - [Useful Links 🎁](#useful-links-)
 - [Social Media :earth_africa:](#social-media-earth_africa)
 
 ---
+
+## Overview 🌏
+
+**This isn&apos;t a traditional component library or a replacement for Shadcn**. Instead, it&apos;s a unique collection offers customizable variants of components, blocks, and templates. Preview, customize, and copy-paste them into your apps with ease.
+
+Building on the solid foundation of the Shadcn components & blocks, we&apos;ve enhanced it with custom-designed components & blocks to give you a head start. This allows you to craft, customize, and ship your projects faster and more efficiently.
+
+### Not a standard library, but a distribution of components
+
+Following the philosophy of Shadcn, shadcn/studio isn&apos;t a conventional &quot;install-from-NPM&quot; library. Rather, it&apos;s an open-source distribution of components designed for maximum adaptability. You can copy the code, modify styles, adjust logic, or integrate it with other tools—free from the limitations of typical libraries. This &quot;open code&quot; model empowers you to customize with confidence and creativity.
 
 ## Why should I use shadcn/studio? 💡
 
@@ -283,7 +321,7 @@ Simply upload the contents of the `dist/` folder after running `pnpm run build`.
 
 ## Documentation 📚
 
-For comprehensive documentation, please visit [shadcn/studio documentation](https://shadcnstudio.com/docs/getting-started/shadcn-studio-template-astro).
+For comprehensive documentation, please visit [shadcn/studio documentation](https://shadcnstudio.com/docs/getting-started/introduction).
 
 ## Community 🤝
 
@@ -291,6 +329,15 @@ Join the shadcn/studio community to discuss the library, ask questions, and shar
 
 - 🐦 [Follow us on Twitter](https://x.com/ShadCNStudio)
 - 🎮 [Join us on Discord](https://discord.com/invite/kBHkY7DekX)
+
+## Credits 🤘
+
+We are grateful for the contributions of the open-source community, particularly:
+
+- [shadcn/ui](https://ui.shadcn.com/)
+- [tweakcn](https://tweakcn.com/) (Our Theme Generator is heavily inspired by tweakcn)
+
+These projects form the backbone of shadcn/studio, allowing us to build a powerful copy-and-paste components.
 
 ## Useful Links 🎁
 
